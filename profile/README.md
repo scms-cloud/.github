@@ -1,4 +1,6 @@
-## Hi there 👋
+## SCMS Cloud Server Project
+
+SCMS 서버를 클라우드로 전환하는 프로젝트 입니다.
 
 <!--
 
