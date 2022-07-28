@@ -1,4 +1,4 @@
-## SCMS Cloud Project
+## SCMS Cloud Project (V2X Cloud Server)
 
 SCMS Cloud는 V2X디바이스(OBU,RSU)의 SCMS 테스트를 쉽고 편리하게 사용하실 수 있도록 개발되었습니다.\
 간단한 가입 철차 후 등록인증서를 발급하고 디바이스에서 직접 발급 테스트를 해 볼 수 있습니다.
