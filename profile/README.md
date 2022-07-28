@@ -6,7 +6,7 @@ SCMS Cloud는 V2X디바이스(OBU,RSU)의 SCMS 테스트를 쉽고 편리하게 
 본 프로젝트는 국제표준 보안규격(IEEE 1609.2)인증서를 발급하고 관리합니다.\
 테스트에서는 인증서를 생성하고 생성된 인증서를 쉽게 확인할 수 있습니다. (RA/ECA)
 
-[테스트 시작하기](https://master.dh1qexdubu175.amplifyapp.com)
+[테스트 시작하기](https://master.dh1qexdubu175.amplifyapp.com){:target="_blank"}
 
 
 <img src="https://github.com/scms-cloud/.github/blob/b0be9a72c909ff2925a6481f94b9eada4670c204/profile/SCMS_Cloud_Service_architecture.drawio.png"/>
