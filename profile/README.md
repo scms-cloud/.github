@@ -2,7 +2,7 @@
 
 SCMS 서버를 클라우드로 전환하는 프로젝트 입니다.
 
-<img src="SCMS_Cloud_Service_architecture.drawio.png"/>
+<img src="https://github.com/scms-cloud/.github/blob/b0be9a72c909ff2925a6481f94b9eada4670c204/profile/SCMS_Cloud_Service_architecture.drawio.png"/>
 
 <!--
 
